@@ -8,8 +8,7 @@ You can ask the voice assistant to start a new game with a given number of quest
 
 The assistant will then ask you questions one by one and will tell you when you're right or wrong.
 
-You can find further info about this game in the official Snips documentatio [here]
-(https://docs.snips.ai/articles/platform/multi-turn-dialog)
+You can find further info about this game in the official Snips documentation [here](https://docs.snips.ai/articles/platform/multi-turn-dialog)
 
 ## Standard Installation:
 
